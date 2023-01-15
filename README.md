@@ -4,6 +4,7 @@
 ## Usage
 Running `akiarc` without any arguments will print the program usage.
 
+- List entries: `akiarc -i ARCHIVE_FILE`
 - Extract files: `akiarc -e ARCHIVE_FILE`
 - Build archive: `akiarc -b ARCHIVE_FILE [FILES]`
 
